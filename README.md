@@ -1,6 +1,6 @@
 ![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/logo1.jpg "logo 1")
 # Tweetwingle
-Twitter sentiment analysis using tweepy api.
+Twitter sentiment analysis using tweepy api in python.
 
 ## Introduction
 tweetwingle is a twitter sentiment analysis project, which gives sentiments polarity based on the keyword that user gives. It relies upon tweepy-api for tweet collection from twitter server and on textblob for sentiment polarity calculation. Features of tweetwingle include :
@@ -109,3 +109,7 @@ Total sentiments score(-1 to 1):  0.37484375
 A pie chart is plotted for the score obtained in the above example. Here we only consider polarity.
 
 ![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_1.png "Plot 1")
+
+## Note
+Since the given keyword is highly positive we got the plot as above. Some example plot for other key words are given below : 
+
