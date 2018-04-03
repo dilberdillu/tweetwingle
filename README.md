@@ -116,3 +116,7 @@ Since the given keyword is highly positive we got the plot as above. Some exampl
 `keyword: hate`
 
 ![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_2.png "Plot 2")
+
+`keyword: donald trumph`
+
+![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_3.png "Plot 3")
