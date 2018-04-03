@@ -111,5 +111,8 @@ A pie chart is plotted for the score obtained in the above example. Here we only
 ![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_1.png "Plot 1")
 
 ## Note
-Since the given keyword is highly positive we got the plot as above. Some example plot for other key words are given below : 
+Since the given keyword is highly positive we got the plot as above. Some example plot for other key words are given below :
 
+`keyword: hate`
+
+![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_2.png "Plot 2")
