@@ -1,4 +1,4 @@
-# tweetwingle
+# Tweetwingle
 Twitter sentiment analysis using tweepy api.
 
 ## Introduction
@@ -106,3 +106,5 @@ Total sentiments score(-1 to 1):  0.37484375
 ```
 ### Plotting score
 A pie chart is plotted for the score obtained in the above example. Here we only consider polarity.
+
+![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_1.png "Plot 1")
