@@ -122,4 +122,4 @@ Since the given keyword is highly positive we got the plot as above. Some exampl
 ![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/fig_3.png "Plot 3")
 
 
-Feel free to clone repo and make your own changes!!  :)
+Feel free to fork repo and make your own changes!!  :)
