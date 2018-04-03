@@ -38,7 +38,7 @@ login = [consumer_key, consumer_secret, access_token, access_token_secret]
 ```python
 value = input("Enter the keyword:")
 ```
-`>>>love`
+`>love`
 ### tweet collection and sentiments score
 Below is the collected tweets with keyword love and corresponding sentiments score. An overall sentiments score is given at the end.
 
