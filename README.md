@@ -104,3 +104,5 @@ Sentiment(polarity=0.55, subjectivity=0.8)
 
 Total sentiments score(-1 to 1):  0.37484375
 ```
+### Plotting score
+A pie chart is plotted for the score obtained in the above example. Here we only consider polarity.
