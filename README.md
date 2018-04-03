@@ -1,4 +1,4 @@
-![alt text](https://github.com/dilberdillu/tweetwingle/blob/master/logo.png "Plot 1")
+
 # Tweetwingle
 Twitter sentiment analysis using tweepy api.
 
